@@ -1,6 +1,7 @@
 # Compiled binaries
 chat
 client
+!/cmd/client
 
 # Binaries for programs and plugins
 *.exe
